@@ -1,4 +1,5 @@
 <?php
+// Variable
 $first_name = "Emeralda";
 $last_name = "Iffatud Diana";
 

@@ -10,7 +10,7 @@
             display: flex;
         }
 
-        /* Perubahan ukuran box, di 1c 100px. Di 2c 50px agar terlihat seluruh boxnya */
+        /* Perubahan ukuran box, di 1c 100px. Di 2c 50px agar terlihat seluruh boxnya. */
         .items {
             background-color: black;
             color: black;
