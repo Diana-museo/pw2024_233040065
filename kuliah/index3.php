@@ -8,7 +8,7 @@
     <title>Document</title>
     <style>
         .kotak {
-            width: 30px;
+            width: 200px;
             height: 30px;
             background-color: #BADA55;
             text-align: center;
